@@ -1,0 +1,29 @@
+{
+  "name": "pruebas-de-software-unitjs",
+  "description": "Pruebas de Software - Testing Dinámico con UnitJS en Node.js",
+  "main": "example.js",
+  "authors": [
+    "Miguel González Aravena"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "pruebas",
+    "software",
+    "sw",
+    "unitjs",
+    "node",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/MiguelGonzalezAravena/pruebas-de-software-unitjs",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
+}
